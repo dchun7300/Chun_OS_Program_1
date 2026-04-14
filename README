@@ -1,0 +1,8 @@
+Name: Dylan Chun
+Email: dmchun@calpoly.edu
+
+Special Instructions:
+
+Other:
+	I split blocks if they support the minimum block size which is 48 bytes (40 = header, 8 = data).
+	
